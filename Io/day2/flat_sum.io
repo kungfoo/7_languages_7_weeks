@@ -1,0 +1,1 @@
+List flatSum := method(self flatten sum)
